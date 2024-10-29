@@ -1,0 +1,8 @@
+.zen/
+env/
+data/
+*.csv
+iris/
+observe.ipynb
+*.pyc
+voice_data/
